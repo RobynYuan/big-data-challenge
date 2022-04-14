@@ -25,4 +25,4 @@ Transform the dataset to fit the tables in the schema file. Be sure the DataFram
 
 Load the DataFrames that correspond to tables into an RDS instance. Note: This process can take up to 10 minutes for each. Be sure that everything is correct before uploading.
 
-![Screen Shot 2022-04-14 at 12.59.54 AM.png](Images/Screen Shot 2022-04-14 at 12.59.54 AM.png)
+![table_1.png](Images/table_1.png)
